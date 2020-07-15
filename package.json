@@ -1,0 +1,17 @@
+{
+  "name": "backend-pixtertecnologia",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://rootlouzada@bitbucket.org/rootlouzada/backend-pixtertecnologia.git",
+  "author": "Louzada <silvalouzada@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  }
+}
